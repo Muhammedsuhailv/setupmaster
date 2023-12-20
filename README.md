@@ -1,6 +1,8 @@
-# pcsetup
+# Setup Master
 
-A new Flutter project.
+🚀 Just unleashed my creativity in code! 
+🖥️ Excited to share the sleek UI I crafted for my PCSETUP app using Flutter.
+Turning ideas into pixels and pixels into a seamless user experience!
 
 ## Getting Started
 
